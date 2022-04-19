@@ -1,0 +1,26 @@
+{
+  "name": "javascript-tic-tac-toe-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjuk03/JavaScript-Tic-Tac-Toe-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjuk03/JavaScript-Tic-Tac-Toe-master/issues"
+  },
+  "homepage": "https://github.com/pranjuk03/JavaScript-Tic-Tac-Toe-master#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
